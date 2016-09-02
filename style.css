@@ -1,0 +1,51 @@
+body {
+  font-family: 'Signika', sans-serif;
+  text-align: center;
+}
+
+.well {
+  margin: 15px;
+  background-color: #FBFBFF;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  border-radius: 15%;
+  text-align: center;
+  vertical-align: top;
+  padding: 5px !important;
+}
+
+.well:hover {
+  background-color: #EE4266;
+  border: 1px solid grey !important;
+}
+
+.ticborder {
+  background-color: grey;
+  background-color: #0B4F6C;
+  height:390px;
+  width: 400px;
+  margin: 0 auto;
+  border-radius: 8%;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+    margin-top: 100px !important;
+}
+
+p {
+  height: 85px;
+  width: 85px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/*
+.restart {
+  margin-top: 30px;
+  box-shadow: 4px 4px 7px #888888;
+  border-radius: 45%;
+  width: 130px;
+}*/
